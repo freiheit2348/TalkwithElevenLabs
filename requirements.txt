@@ -1,0 +1,9 @@
+pyaudio
+wave
+numpy
+elevenlabs==0.3.0b0
+openai
+keyboard
+portaudio
+assemblyai[extras]
+mpv
